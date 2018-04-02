@@ -5,4 +5,4 @@ date:   2018-04-02 09:45:24 +0800
 categories: random
 ---
 测试一下图片
-![](/_img/zaodao.png)
+![](https://wx4.sinaimg.cn/mw1024/9e6df9c5ly1fpqlxrscujj2074074t8j.jpg)
