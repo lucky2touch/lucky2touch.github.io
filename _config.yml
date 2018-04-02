@@ -25,6 +25,8 @@ github_username:  lucky2touch
 # Build settings
 markdown: kramdown
 theme: minima
+source: src
+include: [_img]
 plugins:
   - jekyll-feed
 
