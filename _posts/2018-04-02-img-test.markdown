@@ -4,5 +4,4 @@ title:  "插入图片测试"
 date:   2018-04-02 09:45:24 +0800
 categories: random
 ---
-测试一下图片
-![](https://wx4.sinaimg.cn/mw1024/9e6df9c5ly1fpqlxrscujj2074074t8j.jpg)
+测试一下图片,可惜图片已经过期了，删掉～
