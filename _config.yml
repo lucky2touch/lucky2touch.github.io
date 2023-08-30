@@ -23,6 +23,8 @@ twitter_username: lucky2touch
 github_username:  lucky2touch
 
 # Build settings
+# Google Analytics
+google_analytics: UA-37195095-1
 markdown: kramdown
 theme: minima
 plugins:
