@@ -5,5 +5,5 @@ categories: random
 ---
 
 今天搞了个新机器，顺便测试一下图片
-![今天天气不错](https://cdn.jsdelivr.net/gh/lucky2touch/lucky2touch.github.io/img/20230831155634.jpg)
+![今天天气不错](/img/20230831155634.jpg)
 
