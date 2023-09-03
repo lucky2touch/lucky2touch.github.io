@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: lucky2touch's creative garden
+title: 2047的妙妙屋
 email: lucky2touch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  为了做游戏而学习各种创意方式
+  有趣事物爱好者
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lucky2touch
-github_username:  lucky2touch
 
 # Build settings
 # Google Analytics
