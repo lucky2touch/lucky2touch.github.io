@@ -22,7 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # Google Analytics
-google_analytics: UA-37195095-1
+google_analytics: G-8DV9ZSFV03
 markdown: kramdown
 theme: minima
 plugins:
